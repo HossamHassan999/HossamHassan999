@@ -7,6 +7,7 @@ I am Hossam Hassan, a backend and GIS developer with experience in Python develo
 
   ![Python](https://img.icons8.com/color/48/000000/python.png) 
   ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) 
+  ![C#](https://jelvix.com/wp-content/uploads/2021/01/c-uses.png)
   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
   ![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
   ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
