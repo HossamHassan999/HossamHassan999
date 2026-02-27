@@ -12,7 +12,7 @@ I am a **Backend Engineer specialized in Geospatial Systems and Spatial Intellig
 
 I design and build scalable back-end architectures that power location-aware platforms, spatial APIs, and geodata-driven systems.
 
-My work focuses on transforming raw geographic data into high-performance services that enable mapping, analytics, and real-world decision-making.
+My focus is transforming raw geographic data into high-performance backend services that enable mapping, analytics, and real-world decision-making.
 
 ### 🔎 Core Expertise
 - Geospatial API Architecture
@@ -21,33 +21,15 @@ My work focuses on transforming raw geographic data into high-performance servic
 - Spatial Data Processing Pipelines
 - Clean & Scalable Backend Design
 
-### 🧠 Engineering Philosophy
-- Performance first
-- Clean architecture & maintainability
-- Scalable system design
-- Real-world impact through spatial intelligence
-
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work Focus
 
-### 🗺️ Geospatial API Platform
-Scalable spatial backend built with **FastAPI & PostGIS**
-- Spatial indexing & optimized geospatial queries
-- GeoJSON-based API responses
-- Production-ready layered architecture
-
-### 🌍 Spatial Data Processing Pipeline
-Automated spatial ETL workflow using **GeoPandas & GDAL**
-- Coordinate system transformations
-- Large dataset optimization
-- Clean and reproducible data workflows
-
-### 📍 Location-Aware Backend Services
-REST APIs powering location-based features
-- Distance calculations & proximity search
-- Spatial filtering & bounding box queries
-- Database performance tuning
+- 🗺️ Building production-ready Geospatial APIs with FastAPI & ASP.NET Core  
+- 📍 Designing optimized spatial queries using PostGIS  
+- 🔄 Creating spatial ETL pipelines using GeoPandas & GDAL  
+- 🐳 Containerizing backend services using Docker  
+- ⚙️ Implementing CI/CD workflows for automated deployment  
 
 ---
 
@@ -56,25 +38,37 @@ REST APIs powering location-based features
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
 
 ### ⚙️ Backend & Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+---
 
 ### 🗺️ Geospatial
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![GDAL](https://img.shields.io/badge/GDAL-5CAD3E?style=for-the-badge&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-5CAD3E?style=for-the-badge)
 
-### 🗄️ Databases & Data
+---
+
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logoColor=white)
+
+---
+
+### 🚀 DevOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-0d6efd?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
@@ -82,22 +76,22 @@ REST APIs powering location-based features
 
 <div align="center">
 
-![Hossam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HossamHassan999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0d6efd&icon_color=0d6efd&text_color=c9d1d9)
+<img src="https://github-readme-stats.vercel.app/api?username=HossamHassan999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0d6efd&icon_color=0d6efd&text_color=c9d1d9&cache_seconds=1800" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HossamHassan999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0d6efd&text_color=c9d1d9)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamHassan999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0d6efd&text_color=c9d1d9&cache_seconds=1800" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=HossamHassan999&theme=tokyonight&hide_border=true&background=0d1117&ring=0d6efd&fire=0d6efd&currStreakLabel=0d6efd)
+<img src="https://streak-stats.demolab.com?user=HossamHassan999&theme=tokyonight&hide_border=true&background=0d1117&ring=0d6efd&fire=0d6efd&currStreakLabel=0d6efd" />
 
 </div>
 
 ---
 
-## 📈 Current Focus
+## 🎯 Current Focus
 
-- Advanced Geospatial System Design
-- Performance Optimization in Spatial Databases
-- Scalable Microservices Architecture
-- Cloud-ready backend deployment strategies
+- Advanced Geospatial Backend Architecture  
+- Performance Optimization in Spatial Databases  
+- Clean Microservices Design  
+- Cloud-ready & Containerized Deployments  
 
 ---
 
