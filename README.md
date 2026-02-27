@@ -59,10 +59,24 @@ My work sits at the intersection of software engineering and spatial intelligenc
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=HossamHassan999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0d6efd&icon_color=0d6efd&text_color=c9d1d9&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamHassan999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0d6efd&text_color=c9d1d9" />
+<table>
+<tr>
+<td>
 
-<img src="https://streak-stats.demolab.com?user=HossamHassan999&theme=tokyonight&hide_border=true&background=0d1117&ring=0d6efd&fire=0d6efd&currStreakLabel=0d6efd" />
+<img src="https://github-readme-stats.vercel.app/api?username=HossamHassan999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0d6efd&icon_color=0d6efd&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" />
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamHassan999&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0d6efd&text_color=c9d1d9&langs_count=6" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=HossamHassan999&theme=tokyonight&hide_border=true&background=0d1117&ring=0d6efd&fire=58a6ff&currStreakLabel=0d6efd&sideLabels=c9d1d9&dates=6e7681&sideNums=ffffff" width="70%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HossamHassan999&bg_color=0d1117&color=0d6efd&line=0d6efd&point=58a6ff&area=true&area_color=0d6efd&hide_border=true" width="95%" />
 
 </div>
 
