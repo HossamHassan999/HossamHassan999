@@ -2,7 +2,17 @@
 
 ## About Me 📌
 Welcome to my GitHub profile 👋! 
-I am Hossam Hassan, a backend and GIS developer with experience in Python development, backend development and using different GIS tools and frameworks.
+I’m a Backend Engineer specializing in Geospatial Systems, passionate about designing and developing efficient, scalable, and reliable back-end solutions that connect data with location.
+
+I work with technologies like Django REST Framework / FastAPI, ASP.NET Core, and PostGIS to build Geospatial APIs, automate spatial workflows, and develop tools that make spatial data more accessible and actionable.
+
+My experience bridges traditional back-end development with advanced GIS and spatial data processing, allowing me to create systems that deliver real insights — not just data.
+
+I’m currently pursuing an academic diploma in Computer Science, continuously improving my skills and staying updated with new technologies and best practices in software engineering and geospatial development.
+
+I enjoy solving complex technical challenges, collaborating with passionate professionals, and contributing to projects that have a real-world impact.
+
+Let’s connect and explore how we can build something meaningful together!
 ## Skills
 
   ![Python](https://img.icons8.com/color/48/000000/python.png) 
